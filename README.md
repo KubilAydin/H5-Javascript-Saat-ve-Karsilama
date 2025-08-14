@@ -6,7 +6,7 @@ Bu proje JS ve BS5 kullanılarak yapılmıştır.
 
 ## 📌 Githun Page ile paylaşıldı.
 
-[Bu link ile ulaşabilirsiniz]()
+[Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/H5-Javascript-Saat-ve-Karsilama/)
   
 ## 🛠️ Kullanılanlar
 
